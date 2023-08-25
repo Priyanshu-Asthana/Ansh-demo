@@ -1,4 +1,4 @@
 # Ansh-demo
 This is my first Git Repository.
 <br>
-Author :- Priyanhsu Asthana
+Author :- Priyanhsu (Anshii)
